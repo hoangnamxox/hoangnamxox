@@ -106,7 +106,7 @@ udp://@225.1.2.74:30120
 udp://@225.1.1.112:30120
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="maxbyhbo" group-title="QUOC TE" tvg-logo="https://i.imgur.com/SOfIznJ.png",Max của HBO HD
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/SOfIznJ.png",Max của HBO HD
 udp://@225.1.2.86:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 udp://@225.1.1.139:30120
