@@ -1,4 +1,3 @@
-#-------------------In The Box-------------------#
 #EXTINF:-1 tvg-id="kix" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/kix/KenhCoBan",Kix
 https://tv.TruyenHinh.Click/CoBan/kix/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/boxhits/KenhCoBan",Box Hits
